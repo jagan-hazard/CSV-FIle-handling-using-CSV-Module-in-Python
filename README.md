@@ -1,4 +1,4 @@
-# CSV FIlE HANDLING USING PYTHON:
+# CSV FILE HANDLING USING PYTHON:
 ---------------------------------
 	- To know basics about file handling in python, kindly go through readme file in the below github link (section 5).
 
