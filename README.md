@@ -9,8 +9,8 @@
 
 	- csv module is object based form of reading and writing the csv file. It can read and write data in dictionary format as well as list format.
 	- csv.DictReader will return the each row as dict with keys will be from the header and values for that keys is respective column value.
-	-csv.writer will write the list into the csv file.
-	-csv.DictWriter will write the dict into the csv file.
+	- csv.writer will write the list into the csv file.
+	- csv.DictWriter will write the dict into the csv file.
 
 		- csv.reader(csvfile,dialect='excel', **fmtparams)   		- > for reading the data in list format
 		- csv.writer(csvfile, dialect='excel', **fmtparams)   		- > for writing the data in list format
