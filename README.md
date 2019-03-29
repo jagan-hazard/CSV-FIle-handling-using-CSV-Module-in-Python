@@ -1,13 +1,13 @@
 # CSV FIlE HANDLING USING PYTHON:
 ---------------------------------
-	- To know about  basics about file handling in python, kindly go through readme in the below github link (section 5).
+	- To know basics about file handling in python, kindly go through readme file in the below github link (section 5).
 
 		- Github link -https://github.com/jagan-hazard/BASICS-IN-PYTHON-PROGRAMMING.
 
 	CSV Module
 	----------
 
-	- csv module is object based form of reading and writing in the csv file. It can read and write data in dictionary format as well as list format.
+	- csv module is object based form of reading and writing the csv file. It can read and write data in dictionary format as well as list format.
 	- csv.DictReader will return the each row as dict with keys will be from the header and values for that keys is respective column value.
 	-csv.writer will write the list into the csv file.
 	-csv.DictWriter will write the dict into the csv file.
