@@ -2,7 +2,7 @@
 ---------------------------------
 	- To know basics about file handling in python, kindly go through readme file in the below github link (section 5).
 
-		- Github link -https://github.com/jagan-hazard/BASICS-IN-PYTHON-PROGRAMMING.
+		- Github link -   https://github.com/jagan-hazard/BASICS-IN-PYTHON-PROGRAMMING.
 
 	CSV Module
 	----------
@@ -24,7 +24,7 @@
 		- This function will return an object having a list which contains the each row as list and each coloumn in that row as elements for the list.
 
 		e.g:
-			import csv
+			import csv             # must import csv module
 			with open('event.csv','r+', encoding="utf8") as file:
 			    reader=csv.reader(file,)
 			    for i in reader:	 # loop through each row
